@@ -30,3 +30,4 @@ To show complex structures, such as HashTable* or zval, in a clear and concise m
 ![use extra debuger](https://github.com/gtkphp/php-src-gdb/blob/main/config.png "Configure QtCreator")
 
 For more informations : https://doc.qt.io/qtcreator/creator-debugging-helpers.html
+/usr/share/qtcreator/debugger/qttypes.py
