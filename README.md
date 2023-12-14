@@ -5,7 +5,12 @@ Debugging Helpers for QtCreator
 
 Debugging Helpers for GDB
 
-```
+```console
+$ gdb -ix php-src/.gdbinit php-install/bin/php
+(gdb) break php-src/ext/ftp/ftp.c:711
+(gdb) run -f test.php
+Breakpoint 1,
+  ...
 (gdb) print zstr
 $1 = (zend_string *) 0x7ffff6882960
 (gdb) print_zstr zstr
