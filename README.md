@@ -3,7 +3,7 @@ Debugging Helpers for QtCreator
 
 ![zval of zend_string display](https://github.com/gtkphp/php-src-gdb/blob/main/zval.png "QtCreator debuger")
 
-Debugging Helpers for console
+Debugging Helpers of php sources for console
 
 ```console
 $ gdb -ix php-src/.gdbinit php-install/bin/php
