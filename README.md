@@ -1,9 +1,9 @@
 # php-src-gdb
-Debugging Helpers for QtCreator
+Debugging Helpers of php sources with QtCreator
 
 ![zval of zend_string display](https://github.com/gtkphp/php-src-gdb/blob/main/zval.png "QtCreator debuger")
 
-Debugging Helpers of php sources for console
+Debugging Helpers for console
 
 ```console
 $ gdb -ix php-src/.gdbinit php-install/bin/php
